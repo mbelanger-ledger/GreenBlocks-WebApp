@@ -18,7 +18,6 @@ export default function Home() {
                   </div>
               </header>
           </div>
-        <NFTGallery />
         <TransactionHistory />
           <TokensBalancePanel />
       </main>
